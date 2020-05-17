@@ -1,6 +1,6 @@
 ---
 title: Welcome to Jekyll!
-date: 2020-05-17 16:04:03 Z
+date: 2020-05-17 16:04:00 Z
 categories:
 - jekyll
 - update
